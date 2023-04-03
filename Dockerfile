@@ -4,7 +4,7 @@ FROM ubuntu:latest
 # Set the working directory for the Docker image
 WORKDIR /app
 
-# Copy the application files to the Docker image
+# Copy the application files to the Docker imagenhdjdj
 COPY . /app
 
 # Install any necessary dependencies fbhdjb

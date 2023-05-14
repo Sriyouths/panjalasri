@@ -12,3 +12,4 @@ RUN apt-get update && apt-get install -y python3
 
 # Specify the command to run when the Docker image starts
 CMD ["python3", "app.py"]
+#ghfvjkl;;lklj

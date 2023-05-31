@@ -1,5 +1,5 @@
 
-name: CICD Dev pipeline
+name: nag cicd pipeline
 
 on:
   push:
